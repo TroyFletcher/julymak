@@ -1,0 +1,22 @@
+! xmodmap for julymak 
+!
+keycode 0x1A =	f	F	f	F
+keycode 0x1B =	p	P	p	P
+keycode 0x1C =	g	G	g	G
+keycode 0x1D =	j	J	j	J
+keycode 0x1E =	u	U	u	U
+keycode 0x1F =	l	L	l	L
+keycode 0x20 =	y	Y	y	Y
+keycode 0x26 =	a	A	a	A
+keycode 0x27 =	s	S	s	S
+keycode 0x28 =	t	T	t	T
+keycode 0x29 =	r	R	r	R
+keycode 0x2A =	d	D	d	D
+keycode 0x2B =	h	H	h	H
+keycode 0x2C =	n	N	n	N
+keycode 0x2D =	e	E	e	E
+keycode 0x2E =	i	I	i	I
+keycode 0x2F =	o	O	o	O
+keycode 0x39 =	k	K	k	K
+keycode 0x3A =	m	M	m	M
+keycode 0x21 =	semicolon	colon	semicolon	colon
