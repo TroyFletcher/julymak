@@ -4,6 +4,8 @@ Julymak is a Colemak derivative designed to undo Qwerty damage on a 40%
 
 A personal modification of Colemak to bring it more in line with the 40% ergo layout, ease the transition, and apply what I've learned about ergonomics.
 
+![](https://raw.githubusercontent.com/TroyFletcher/julymak/main/julymak_vs_colemak.png)
+
 With only 5 changes from Colemak, Julymak design goals are:
 
 1. Ease transition from qwerty.
